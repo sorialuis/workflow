@@ -4,5 +4,5 @@
 */
 
 (function() {
-    document.getElementById("hello").innerHTML = "Hola mundo!";
+    document.getElementById("hello").innerHTML = "Hola Malio!";
 })();
